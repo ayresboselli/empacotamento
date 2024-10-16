@@ -1,0 +1,6 @@
+@Empacotamento_HostAddress = http://localhost:5129
+
+GET {{Empacotamento_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
